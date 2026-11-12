@@ -67,6 +67,20 @@
 # ]
 # print(sorted_by_price(products))
 
+# 5-masala
+
+# def are_numbers_ascending(text):
+#     new=[]
+#     for i in text:
+#         if i.isdigit():
+#             new.append(i)
+#     new_sorted=sorted(new)
+#     if new==new_sorted:
+#         return True
+#     else:
+#         return False
+# text="salom 1 yo'q 2 qani 9 mana 7"
+# print(are_numbers_ascending(text))
 
 
 
